@@ -1,2 +1,6 @@
 # ISS-Overhead-Notifier
-Sends mail if ISS in near our latitude and longitude
+Used : 
+   ISS Current Locator API
+   Sunrise and Sunset times API
+   smtplib mail sender package
+Sends mail if ISS in near your latitude and longitude by giving our areas latitude and longitude.
